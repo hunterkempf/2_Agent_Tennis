@@ -26,7 +26,7 @@ Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/
 
 ## Before Training
 
-<div style="text-align:center"><img src="/Untrained.gif" /></div>
+<div style="text-align:center"><img src="/untrained.gif" /></div>
 
 Before Training the agent takes random actions and may sometimes connect with a the ball by random chance but most of the time even the first drop is missed.
 
